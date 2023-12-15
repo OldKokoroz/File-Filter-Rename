@@ -12,3 +12,9 @@ Make sure :
   if your files have more than 3 variables (a-b-c-d.txt) than modify the code by adding {filtered[3]} at the variable called end_name
 
   
+## Examples 
+
+![Before](before.JPG)
+
+
+![After](after.JPG)
